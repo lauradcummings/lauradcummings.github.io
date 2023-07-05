@@ -31,3 +31,10 @@ Work experience
 * 2015-2020: Teaching Assistant at University of Illinois Urbana-Champaign
   * Led beginner-, intermediate-, and advanced-level Spanish classes for adult learners through clear presentations and effective verbal/written communications
   * Consistently selected as a top 10% performer
+ 
+Publications
+======
+* Cummings Ruiz, Laura D. (2022). The Effect of English-Spanish Language Contact on North Midland /u/ Production. *Heritage Language Journal. 19*(1). 1-30.
+* Cummings Ruiz, Laura D. & Montrul, Silvina. (2020). Assessing Rhotic Production by Bilingual Spanish Speakers. *Languages. 5*(51). 1-20.
+* Cummings Ruiz, Laura D. (2019). North Midland /u/-fronting and its Effect on Heritage Speakers of Spanish. *Proceedings of the 19th International Congress of Phonetic Science, Melbourne, Australia.*
+* Cummings Ruiz, Laura D. (2019). The Comprehensibility of L2 Accented Speech in a Lexical Decision Task.  *Selected Proceedings of the 2017 Second Language Research Forum, Columbus, OH.*
