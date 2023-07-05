@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Psychology & Spanish, University of Illinois Urbana-Champaign, 2015
+* M.A. in Spanish Linguistics, University of Illinois Urbana-Champaign, 2017
+* Ph.D in Spanish Linguistics, University of Illinois Urbana-Champaign, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - Present: Technology Analyst at State Farm
+  *  Creates data maps, report requirements, and data flows to automate the connection of online data to Tableau dashboards
+  *  Conducts market research and analyzes consumer behavior using Moz Pro and Google Trends to optimize Spanish-language websites and create article copy decks based on SEO trends
+  *  Prepares recruiting materials, conducts interviews, and selects interns based on candidate resumes, video interviews, and virtual interviews
+  *  Reviews English-to-Spanish translations of customer surveys, chatbot prompts, and social media posts to ensure quality translations and the proper use of language resources
+  *  Certified as a AWS Cloud Practitioner in March 2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2015-2021: Research Assistant at University of Illinois Urbana-Champaign
+  * Created testing materials and coordinated online and in-person language testing of over 200 Spanish- and English-speaking adults and children
+  * Prepared reports detailing research methodologies and expected outcomes
+ 
+* 2015-2020: Teaching Assistant at University of Illinois Urbana-Champaign
+  * Led beginner-, intermediate-, and advanced-level Spanish classes for adult learners through clear presentations and effective verbal/written communications
+  * Consistently selected as a top 10% performer
