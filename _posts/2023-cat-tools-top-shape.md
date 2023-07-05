@@ -1,7 +1,7 @@
 ---
 title: 'Keep your CAT tools in top shape'
 date: 2023-07-05
-permalink: /posts/2023-cat-tools-top-shape/
+permalink: /posts/2023/07/cat-tools-top-shape/
 tags:
   - terminology management
   - translation
