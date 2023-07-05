@@ -34,7 +34,7 @@ Work experience
  
 Publications
 ======
-* Cummings Ruiz, Laura D. (2022). The Effect of English-Spanish Language Contact on North Midland /u/ Production. *Heritage Language Journal. 19*(1). 1-30.
-* Cummings Ruiz, Laura D. & Montrul, Silvina. (2020). Assessing Rhotic Production by Bilingual Spanish Speakers. *Languages. 5*(51). 1-20.
+* Cummings Ruiz, Laura D. (2022). The Effect of English-Spanish Language Contact on North Midland /u/ Production. *Heritage Language Journal. 19* (1). 1-30.
+* Cummings Ruiz, Laura D. & Montrul, Silvina. (2020). Assessing Rhotic Production by Bilingual Spanish Speakers. *Languages. 5* (51). 1-20.
 * Cummings Ruiz, Laura D. (2019). North Midland /u/-fronting and its Effect on Heritage Speakers of Spanish. *Proceedings of the 19th International Congress of Phonetic Science, Melbourne, Australia.*
 * Cummings Ruiz, Laura D. (2019). The Comprehensibility of L2 Accented Speech in a Lexical Decision Task.  *Selected Proceedings of the 2017 Second Language Research Forum, Columbus, OH.*
