@@ -83,8 +83,8 @@ author:
   name             : "Laura Cummings"
   avatar           : "prof_pic.jpg"
   location         : "Champaign, IL"
-  lauradcummings@yahoo.com            : "lauradcummings@yahoo.com"
-  linkedin.com/in/lauradcummings         : "www.linkedin.com/in/lauradcummings"
+  email            : "lauradcummings@yahoo.com"
+  linkedin         : "www.linkedin.com/in/lauradcummings"
 
 
 # Reading Files
@@ -145,13 +145,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
