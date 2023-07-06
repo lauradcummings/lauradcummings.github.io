@@ -1,5 +1,5 @@
 ---
-title: 'Keep your CAT tools in top shape'
+title: 'Keeping your CAT tools in top shape'
 date: 2023-07-05
 permalink: /posts/2023/07/cat-tools-top-shape/
 tags:
@@ -7,7 +7,7 @@ tags:
   - translation
 ---
 
-Recent advancements in <a href="https://builtin.com/artificial-intelligence/machine-translation">machine translation (MT)</a> software have emphasized the importance of using translation tools as professional translators. However, computer-assisted translation (CAT) tools -- such as translation memories and termbases -- require contant maintenance and updates to ensure their effectiveness. Take a moment to learn more about translation memories and termbases, why they are essential to translators, and how to maintain them properly to help build your reputation as a translator.
+Recent advancements in <a href="https://builtin.com/artificial-intelligence/machine-translation">machine translation (MT)</a> software underscore the importance of using translation tools as professional translators. However, computer-assisted translation (CAT) tools -- such as translation memories and termbases -- require contant maintenance and updates to ensure their effectiveness. Take a moment to learn more about translation memories and termbases, why they are essential to translators, and how to maintain them properly to help build your reputation.
 
 What is a translation memory?
 =====
