@@ -7,7 +7,7 @@ tags:
   - translation
 ---
 
-Recent advancements in <a href="https://builtin.com/artificial-intelligence/machine-translation">machine translation (MT)</a> software have emphasized the importance of translation tools for professional translators, especially for technical texts like medical and legal texts. However, these CAT tools -- such as translation memories and termbases -- requires contant maintenance and updates to ensure their effectiveness. Take a moment to learn more about translation memories and termbases, why they are essential to translators, and how to maintain them properly to help build your reputation as a translator.
+Recent advancements in <a href="https://builtin.com/artificial-intelligence/machine-translation">machine translation (MT)</a> software have emphasized the importance of using translation tools as professional translators. However, computer-assisted translation (CAT) tools -- such as translation memories and termbases -- require contant maintenance and updates to ensure their effectiveness. Take a moment to learn more about translation memories and termbases, why they are essential to translators, and how to maintain them properly to help build your reputation as a translator.
 
 What is a translation memory?
 =====
