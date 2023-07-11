@@ -2,7 +2,7 @@
 permalink: /
 title: "Resources"
 excerpt: "Resources"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /resources/
   - /resources.html
