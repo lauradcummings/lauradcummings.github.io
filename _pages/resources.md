@@ -31,4 +31,4 @@ Here are some of my favorite resources to learn some basics on the following top
 * [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) by Moz
 * [SEO Basics: Beginner's Guide to SEO Success](https://ahrefs.com/blog/seo-basics/) by Ahrefs
 
-<br>Did I miss any of your favorites? Send me an [email](mailto:lauradcummings@yahoo.com) so I can add them to the list!</br>
+<br>Did I miss any of your favorites? Send me an [email](mailto:lauradcummings@yahoo.com) so I can add them to the list!
